@@ -1,0 +1,14 @@
+Indian 4 10 NORP
+India 108 113 GPE
+recent years 269 281 DATE
+Indian 283 289 NORP
+the Lok Sabha 488 501 PERSON
+Indian 556 562 NORP
+18 647 649 CARDINAL
+The Election Commission 669 692 ORG
+India 696 701 GPE
+Indian 1065 1071 NORP
+Indian 1270 1276 NORP
+Indian 1334 1340 NORP
+Indian 1520 1526 NORP
+India 1670 1675 GPE
